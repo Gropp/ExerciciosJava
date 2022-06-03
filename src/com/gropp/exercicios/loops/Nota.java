@@ -2,6 +2,11 @@ package com.gropp.exercicios.loops;
 
 import java.util.Scanner;
 
+/*
+ * Receba uma nota atraves do teclado
+ * So aceite notas no intervalo de 0 a 10
+ */
+
 public class Nota {
     public static void main(String[] args) {
         //captura o teclado
